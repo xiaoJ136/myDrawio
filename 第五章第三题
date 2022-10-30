@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T11:46:23.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lgQoblaj8_kRtA3hbe-Z" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T11:47:26.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yX5n5IDFDtTokKinHcou" version="20.4.1" type="github">
   <diagram id="tyAwa-AsGCMoNcRU4Lgj" name="第 1 页">
     <mxGraphModel dx="1423" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         <mxCell id="8UzgNzBB3vhTetwnZxnm-28" value="接受旅客信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8UzgNzBB3vhTetwnZxnm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="8UzgNzBB3vhTetwnZxnm-29" target="8UzgNzBB3vhTetwnZxnm-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8UzgNzBB3vhTetwnZxnm-29" value="旅客信息处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -143,10 +146,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8UzgNzBB3vhTetwnZxnm-39" value="安排航班" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1244" width="90" height="60" as="geometry" />
+          <mxGeometry x="410" y="1244" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UzgNzBB3vhTetwnZxnm-40" value="校对无误" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1244" width="90" height="60" as="geometry" />
+          <mxGeometry x="645" y="1244" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UzgNzBB3vhTetwnZxnm-41" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8UzgNzBB3vhTetwnZxnm-39" target="8UzgNzBB3vhTetwnZxnm-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,11 +181,8 @@
             <mxPoint x="560" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8UzgNzBB3vhTetwnZxnm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="8UzgNzBB3vhTetwnZxnm-52" target="8UzgNzBB3vhTetwnZxnm-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8UzgNzBB3vhTetwnZxnm-52" value="计算票价" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1360" width="90" height="60" as="geometry" />
+        <mxCell id="8UzgNzBB3vhTetwnZxnm-55" value="计算票价" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1244" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
