@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T03:54:18.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="vPt0DwY68zDwEkn-QC3r" type="github"><diagram id="LDmr6S2L3XmODTiTm3Y7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T04:01:52.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Cn6Y48sOwsrQ8M__TZqR" version="20.5.1" type="github">
+  <diagram id="LDmr6S2L3XmODTiTm3Y7" name="第 1 页">
+    <mxGraphModel dx="996" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ0xSFoXPHCmKiUfeAUb-1" target="dZ0xSFoXPHCmKiUfeAUb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-1" value="Image text analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ0xSFoXPHCmKiUfeAUb-2" target="dZ0xSFoXPHCmKiUfeAUb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-2" value="Image segmentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ0xSFoXPHCmKiUfeAUb-4" target="dZ0xSFoXPHCmKiUfeAUb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-4" value="image&amp;nbsp;Optical Character Recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZ0xSFoXPHCmKiUfeAUb-6" target="dZ0xSFoXPHCmKiUfeAUb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-6" value="save&amp;nbsp;recognition data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ0xSFoXPHCmKiUfeAUb-8" value="绘制温度与平均温度曲线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
